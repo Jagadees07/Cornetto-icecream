@@ -1,0 +1,131 @@
+* {
+	font-family: Josefin Sans;
+	background-color: #232222;
+	color: white;
+}
+
+/*Navbar*/
+
+.logo {
+	font-family: Yellowtail;
+	font-size: 40px;
+}
+
+/*Carousel*/
+
+.carousel-inner {
+	padding-right: 80px;
+	padding-left: 80px;
+}
+.carousel-indicators {
+	background-color: transparent;
+}
+
+/*Content*/
+.simple {
+	color: white;
+}
+.heading {
+	padding-top: 10px;
+}
+
+/*Sales*/
+.sales > img {
+	width: 120px;
+	height: 220px;
+	margin: 50px;
+	margin-bottom: 10px;
+}
+.sales button {
+	border-radius: 17px;
+	margin-left: 70px;
+}
+.brand {
+	margin-left: 50px;
+	margin-right: 5px;
+}
+.price {
+	margin-left: 21px;
+}
+.butter {
+	width: 100px;
+}
+.double {
+	font-size: 23px;
+	margin-top: 48px;
+	margin-left: 50px;
+}
+.double-brand h4 {
+	margin-left: 0px;
+}
+.double-brand p {
+	margin-left: 40px;
+}
+.oreo-brand h4 {
+	margin-left: 84px;
+}
+.oreo-brand p {
+	margin-left: 75px;
+}
+#double-button {
+	margin-left: 47px;
+}
+#block-button {
+	margin-top: 40px;
+	padding-left: 120px;
+	padding-right: 120px;
+	border-radius: 12px;
+}
+
+/*Footer*/
+footer {
+	padding-top: 20px;
+	font-weight: lighter;
+}
+
+li {
+	list-style: none;
+	color: #ffff;
+}
+ul {
+	list-style: none;
+	text-decoration: none;
+	}
+
+	#footer-link {
+		text-align: center;
+		color: #ffff;
+		font-size: 18 px;
+		text-decoration: none;
+	}
+
+	#footer-link:hover {
+		
+		text-decoration: underline;
+	}
+
+	.contact {
+		font-size: 20px;
+	}
+	.copyright {
+		float: left;
+	}
+	.country {
+		float: right;
+	}
+	.Copyright {
+		margin-top: 2px;
+		padding-right: 50px;
+		padding-left: 50px;
+		margin-bottom: 5px;
+	}
+
+#endpic {
+	margin-top: 10px;
+	margin-left: 60px;
+}	
+.moto {
+	font-size: 15px;
+	margin-top: 5px;
+	margin-left: 10px;
+}
